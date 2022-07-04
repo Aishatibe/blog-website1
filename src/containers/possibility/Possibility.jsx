@@ -4,13 +4,13 @@ import possibilityImage from '../../assets/possibility.jpg';
 
 const Possibility = () => {
   return (
-    <div className="gpt3__possibility section__padding " id="possibility">
+    <div className="gpt3__possibility section__padding" id="possibility">
       <div className="gpt3__possibility-image">
         <img src={possibilityImage} alt="possibility" />
       </div>
       <div className="gpt3__possibility-content">
         <h4>Knockoff Your Competitors by Placing a call to us today !!!</h4>
-        <h1 className="gradient-text">
+        <h1 className="gradient__text">
           There would be an unimaginary positive shift in your business
         </h1>
         <p>
